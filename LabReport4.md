@@ -1,11 +1,13 @@
 # Lab Report 4 - Vim  
 ## Aidan Rikic  
 Step 4.  
-![Image](lab4_ss1.png)
-Explanation: To log in to ieng6 I had to type my login of `arikic@ieng6.ucsd.edu`.   
+![Image](lab4_ss1.png)  
+Commands: `ssh arikic@ieng6.ucsd.edu` <enter>  
+Explanation: To log in to ieng6 I had to use the ssh command and put my login and hit enter.   
 
 Step 5.  
 ![Image](lab4_ss2.png)  
+Commands: `git clone git@github.com:aidanRik/lab7_aidan.git`
 Explanation: To clone the repository I had to copy the link from github, and then type into the terminal `git clone` and then I pasted the copied path with `command v`  
 
 Step 6.  
